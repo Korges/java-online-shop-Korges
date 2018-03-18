@@ -1,4 +1,4 @@
-package part2;
+package action;
 
 public class PaymentProcess extends AbstractProcess {
 

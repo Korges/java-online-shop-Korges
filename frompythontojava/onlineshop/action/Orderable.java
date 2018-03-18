@@ -1,4 +1,4 @@
-package part2;
+package action;
 
 public interface Orderable {
 

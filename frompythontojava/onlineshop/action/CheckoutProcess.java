@@ -1,4 +1,4 @@
-package part2;
+package action;
 
 public class CheckoutProcess extends AbstractProcess {
 

@@ -1,11 +1,11 @@
-import part1.Basket;
-import part1.FeaturedProductCategory;
-import part1.Product;
-import part1.ProductCategory;
-import part2.AbstractProcess;
-import part2.CheckoutProcess;
-import part2.Order;
-import part2.PaymentProcess;
+import product.Basket;
+import product.FeaturedProductCategory;
+import product.Product;
+import product.ProductCategory;
+import action.AbstractProcess;
+import action.CheckoutProcess;
+import action.Order;
+import action.PaymentProcess;
 
 import java.util.Arrays;
 import java.util.Date;

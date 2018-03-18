@@ -1,4 +1,4 @@
-package part1;
+package product;
 
 public class ProductIterator implements Iterator {
 
