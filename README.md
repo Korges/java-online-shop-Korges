@@ -6,5 +6,5 @@ In an Online Shop, there are Products, which you can browse. They are usually ca
 The following UML class diagram shows the structure and relationships of program. 
 
 <p align="center">
-  <img src="Online Shop part 1.png" width="350"/>
+  <img src="Online Shop part 1.png"/>
 </p>
